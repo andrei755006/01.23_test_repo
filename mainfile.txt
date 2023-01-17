@@ -1,0 +1,1 @@
+Some interestin text from mainfile.txt
